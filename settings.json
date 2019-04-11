@@ -1,0 +1,29 @@
+{
+	"workbench.colorTheme": "Material Theme Palenight High Contrast",
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.minimap.enabled": false,
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.startupEditor": "newUntitledFile",
+	"workbench.statusBar.feedback.visible": false,
+	"editor.fontSize": 13,
+	"workbench.panel.defaultLocation": "right",
+	"window.menuBarVisibility": "toggle",
+	"files.defaultLanguage": "html",
+	"workbench.editor.tabSizing": "shrink",
+	"editor.tabSize": 2,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.glyphMargin": false,
+	"editor.smoothScrolling": true,
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".css",
+			"savePath": "/css"
+		}
+	],
+	"liveSassCompile.settings.autoprefix": [
+		"> 1%",
+		"last 2 versions"
+	]
+}

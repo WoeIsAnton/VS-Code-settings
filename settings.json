@@ -6,7 +6,6 @@
 	"workbench.startupEditor": "newUntitledFile",
 	"workbench.statusBar.feedback.visible": false,
 	"editor.fontSize": 13,
-	"workbench.panel.defaultLocation": "right",
 	"window.menuBarVisibility": "toggle",
 	"files.defaultLanguage": "html",
 	"workbench.editor.tabSizing": "shrink",

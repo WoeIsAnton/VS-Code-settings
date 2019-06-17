@@ -22,6 +22,11 @@
     "> 1%",
     "last 2 versions"
   ],
+  "git.enableSmartCommit": true,
+  "editor.snippetSuggestions": "top",
+  "breadcrumbs.enabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.insertSpaces": false,
   "workbench.colorCustomizations": {
     "scrollbarSlider.activeBackground": "#DC354550",
     "activityBarBadge.background": "#DC3545",
@@ -51,10 +56,5 @@
     "notificationCenterHeader.foreground": "#eee",
     "notifications.background": "#AD2936",
     "notifications.foreground": "#eee",
-  },
-  "git.enableSmartCommit": true,
-  "editor.snippetSuggestions": "top",
-  "breadcrumbs.enabled": false,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "editor.insertSpaces": false
+  }
 }

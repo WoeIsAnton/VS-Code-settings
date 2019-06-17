@@ -10,7 +10,6 @@
   "workbench.editor.tabSizing": "shrink",
   "workbench.statusBar.feedback.visible": false,
   "editor.tabSize": 2,
-  "editor.detectIndentation": false,
   "editor.smoothScrolling": true,
   "liveSassCompile.settings.formats": [
     {
@@ -27,9 +26,9 @@
     "scrollbarSlider.activeBackground": "#DC354550",
     "activityBarBadge.background": "#DC3545",
     "activityBarBadge.foreground": "#eee",
-    "list.activeSelectionForeground": "#DC3545",
-    "list.inactiveSelectionForeground": "#DC3545",
-    "list.highlightForeground": "#DC3545",
+    "list.activeSelectionForeground": "#eee",
+    "list.inactiveSelectionForeground": "#eee",
+    "list.highlightForeground": "#eee",
     "editorSuggestWidget.highlightForeground": "#DC3545",
     "textLink.foreground": "#DC3545",
     "progressBar.background": "#DC3545",
@@ -56,5 +55,6 @@
   "git.enableSmartCommit": true,
   "editor.snippetSuggestions": "top",
   "breadcrumbs.enabled": false,
-  "diffEditor.ignoreTrimWhitespace": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.insertSpaces": false
 }
